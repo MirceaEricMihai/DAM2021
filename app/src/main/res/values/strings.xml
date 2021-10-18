@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Telegram</string>
+    <string name="the_world_s_fastest_messaging_app_nit_is_free_and_secure">The world\'s fastest messaging app.\nIt is free and secure.</string>
+    <string name="imgview">ImgView</string>
+    <string name="start_messaging">Start Messaging</string>
+    <string name="telegram">Telegram</string>
+    <string name="your_phone">Your Phone</string>
+    <string name="please_confirm_your_county_code_nand_enteryour_phone_number">Please confirm your county code\nand enteryour phone number.</string>
+    <string name="textview">TextView</string>
+</resources>
