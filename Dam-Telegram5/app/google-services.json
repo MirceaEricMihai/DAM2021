@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738222947082",
+    "project_id": "damtelegram",
+    "storage_bucket": "damtelegram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738222947082:android:e8c1fc09e485fc583118f3",
+        "android_client_info": {
+          "package_name": "com.example.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738222947082-svrtrc7m5a3sjlc8ssje3gutrncmlmgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyla-dbnOjK4daNgcVjw-lw-kh18sxtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738222947082-svrtrc7m5a3sjlc8ssje3gutrncmlmgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
